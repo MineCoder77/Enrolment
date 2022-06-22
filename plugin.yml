@@ -1,0 +1,8 @@
+---
+name: EnrolmentServ
+api: [4.0.0]
+author: 1kon
+vk: vk.com/mine_code
+version: 1.3
+main: Sys\Loader
+...
